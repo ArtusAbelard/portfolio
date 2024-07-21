@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "titre":"TB303",
+        "text": "La roland TB-303 est un synthétiseur analogique monophonique légendaire, principalement utilisé pour créer des lignes de basse dans la musique électronique."     
+    },
+    {
+        "id": 2,
+        "titre":"RE303",
+        "text": "La RE-303 est une réplique de la légendaire Roland TB-303, conçue pour se rapprocher le plus possible de l’original. Elle est développée et distribuée par DinSync sous forme de kit DIY. Le circuit imprimé (PCB) a été minutieusement recréé à la main à partir d’une machine Roland originale et peut même être utilisé comme pièce de rechange pour les machines d’origine1. Si vous cherchez à construire votre propre TB-303, la RE-303 est un excellent choix !"
+    },
+    {
+        "id": 3,
+        "titre":"TT303",
+        "text": "Le TT-303 est un synthétiseur entièrement analogique qui clone la célèbre Roland TB-303. "
+    },
+    {
+        "id": 4,
+        "titre":"TD03",
+        "text": "Le Behringer TD-3 est un synthétiseur de ligne de basse analogique qui rend hommage à la légendaire Roland TB-303"
+    },
+    {
+        "id": 5,
+        "titre":"xoxbox",
+        "text": "La RE-303 est une réplique de la légendaire Roland TB-303, conçue pour se rapprocher le plus possible de l’original. Elle est développée et distribuée par DinSync sous forme de kit DIY. Le circuit imprimé (PCB) a été minutieusement recréé à la main à partir d’une machine Roland originale et peut même être utilisé comme pièce de rechange pour les machines d’origine1. Si vous cherchez à construire votre propre TB-303, la RE-303 est un excellent choix !"
+    }
+]
